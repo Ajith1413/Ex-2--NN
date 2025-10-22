@@ -1,9 +1,9 @@
-## Implementation of Perceptron for Binary Classification
 <H3>Name : AJITHKUMAR A</H3>
 <H3>Register no : 212223230009</H3>
 <H3>DATE:         </H3>
 <H3>Experiment No : 2 </H3>
 
+## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
